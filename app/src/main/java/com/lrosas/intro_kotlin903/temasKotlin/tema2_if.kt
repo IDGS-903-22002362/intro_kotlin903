@@ -9,4 +9,12 @@ fun main(){
     }else{
         println("no paga")
     }
+
+    val mes= "1"
+    when(mes){
+        "1" -> println("Enero")
+        "2" -> println("Nov")
+        else -> println("No val")
+    }
+
 }
