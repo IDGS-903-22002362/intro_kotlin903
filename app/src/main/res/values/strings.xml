@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">intro_kotlin903</string>
+    <string name="holamundo">Holamundo</string>
+    <string name="nombre">escribe tu name</string>
+    <string name="PULL">Pullsame</string>
+    <string name="button">button</string>
 </resources>
