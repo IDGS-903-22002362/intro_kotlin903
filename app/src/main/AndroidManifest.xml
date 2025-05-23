@@ -13,6 +13,12 @@
         android:theme="@style/Theme.IntroKotlin903"
         tools:targetApi="31">
         <activity
+            android:name=".practica4.Archivos"
+            android:exported="false" />
+        <activity
+            android:name=".paractica3.Ejemplo3"
+            android:exported="false" />
+        <activity
             android:name=".ejemplo1.CinepolisActivity"
             android:exported="false" />
         <activity
